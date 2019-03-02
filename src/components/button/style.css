@@ -1,0 +1,17 @@
+.button {
+    outline: none;
+    background: blue;
+    color: white;
+    margin: 0;
+    padding: .7em 1em;
+    border: 0;
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+    opacity: .9;
+    transition: opacity .5s;
+}
+
+.button:hover {
+    opacity: 1;
+}
